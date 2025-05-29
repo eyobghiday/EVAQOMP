@@ -1,2 +1,3 @@
 # EVAQOMP
-Emotional Volatility Analysis Quantified Optimization and Machine Prediction 
+
+An intelligent trading bot using sentiment analysis from news and Reddit to execute trades using Alpaca.
